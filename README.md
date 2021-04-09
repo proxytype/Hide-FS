@@ -1,5 +1,5 @@
 # Hide-FS
-Inject dll to explorer.exe and hide file or folder from process.
+Inject dll to explorer.exe and hide file from process.
 
 ## Requierments:
 Microsoft Detours Library - https://github.com/microsoft/Detours
