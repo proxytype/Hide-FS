@@ -11,3 +11,9 @@ Microsoft Detours Library - https://github.com/microsoft/Detours
 4. NMAKE
 
 Add detours.lib to Linker additional libraries.
+
+**Hooked Functions:**
+- NtQueryDirectoryFile <br>
+  Microsoft try to hide it, The address to the function is dynamic, you need to find it yourself.
+- RtlUnicodeStringToAnsiString
+  
