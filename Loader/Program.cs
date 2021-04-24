@@ -43,7 +43,7 @@ namespace Loader
             if (args.Length < 2)
             {
 
-                Console.WriteLine("Execute managed code in unmanaged code:");
+                Console.WriteLine("Hide File From Explorer, Check filename in code.");
                 Console.WriteLine("<Payload Path> <Process Name>");
                 Console.WriteLine("Example:");
                 Console.WriteLine("C:\\payload.dll notepad");
